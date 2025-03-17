@@ -1,9 +1,9 @@
 # Olá, sou João Victor!
 
-🚀 Estudante de Ciência da Computação na Universidade Catolíca de Brasília.  
+🚀 Estudante de Ciência da Computação na UCB  
 💻 Desenvolvendo projetos em Java  
-📚 Aprendendo mais sobre backend
+📚 Aprendendo mais sobre backend e arquiteturas de software  
 
 ## Contato
-- **Email:** [joaovictorooliveira812@gmail.com](mailto:joaovictorooliveira812@gmail.com)
-- **LinkedIn:** [João Victor Ribeiro no LinkedIn]([[https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/jo%C3%A3o-victor-ribeiro-24291b219/)](https://www.linkedin.com/in/jo%C3%A3o-victor-ribeiro-24291b219/))
+- **Email:** [![Email](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:joaovictorooliveira812@gmail.com)
+- **LinkedIn:** [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/joaovictorribeiro)
