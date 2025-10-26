@@ -1,4 +1,4 @@
-## Olá, sou o João Victor!
+# Olá, sou o João Victor!
 
 🎓 Estudante de Ciência da Computação na Universidade Catolica de Brasilia
 
