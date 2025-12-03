@@ -19,17 +19,17 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Corrigido para J maiúsculo igual seu perfil
+          # Seu usuário correto com J maiúsculo
           github_user_name: Joaorooliveira
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
       - name: Push Snake to the output branch
-        uses: crazy-max/gh-action-github-pages@v3.1.0
+        # AQUI ESTAVA O ERRO: agora está "ghaction" (sem traço)
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          # A indentação aqui é crítica, agora está correta
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
