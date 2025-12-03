@@ -19,7 +19,8 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: joaorooliveira
+          # Corrigido para J maiúsculo igual seu perfil
+          github_user_name: Joaorooliveira
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
@@ -30,4 +31,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
+          # A indentação aqui é crítica, agora está correta
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
